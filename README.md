@@ -1,4 +1,8 @@
-# Diana
+# Abandoned
+
+I no longer play MapleStory 2, therefore I've abandoned the development of this bot.
+
+# About
 
 This bot is still a WIP.
 
